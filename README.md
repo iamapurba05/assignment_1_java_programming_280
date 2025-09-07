@@ -1,4 +1,4 @@
-# Banking Application (Java)
+# 2401010280-Banking Application (Java)
 
 This is a simple **Banking Application** built using Java.  
 It demonstrates fundamental concepts of **Object-Oriented Programming (OOP)** such as classes, objects, constructors, encapsulation, and methods.
@@ -11,9 +11,4 @@ The application allows users to:
 - View account details  
 - Update contact information  
 
-## Technologies Used
-- **Language:** Java  
-- **Concepts:** OOP (Encapsulation, Constructors, Methods, Objects)  
 
-## Author
-Developed as part of a **Java Programming Assignment**.
